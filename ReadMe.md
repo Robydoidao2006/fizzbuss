@@ -6,11 +6,13 @@ on the FizzBuzz column, and the remaining numbers goes on the remaining column.
 #### Test the project. 
 https://robydoidao2006.github.io/fizzbuzz/
 
-V.2.0 ~ Date: 11/01/2018
+V.2.0 ~ Date: 11/02/2018
 ##### Visual Inprovements 
 - Custom glowing h1
 - Custom background color 
 - Better Design layout
+##### Logic Inprovements
+- Grabs user input accurately 
 ![alt text](assets/images/github/v2.jpg)
 
 V.1.0 ~ Date: 11/01/2018.
