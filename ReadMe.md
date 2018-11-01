@@ -13,6 +13,7 @@ V.2.0 ~ Date: 11/02/2018
 - Better Design layout
 ##### Logic Inprovements
 - Grabs user input accurately 
+- Only accepts numbers as input
 ![alt text](assets/images/github/v2.jpg)
 
 V.1.0 ~ Date: 11/01/2018.
