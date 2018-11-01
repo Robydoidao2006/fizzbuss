@@ -8,6 +8,9 @@ https://robydoidao2006.github.io/fizzbuzz/
 
 V.2.0 ~ Date: 11/01/2018
 ##### Visual Inprovements 
+- Custom glowing h1
+- Custom background color 
+- Better Design layout
 ![alt text](assets/images/github/v2.jpg)
 
 V.1.0 ~ Date: 11/01/2018.
