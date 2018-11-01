@@ -6,6 +6,10 @@ on the FizzBuzz column, and the remaining numbers goes on the remaining column.
 #### Test the project. 
 https://robydoidao2006.github.io/fizzbuzz/
 
+V.2.0 ~ Date: 11/01/2018
+##### Visual Inprovements 
+![alt text](assets/images/github/v2.jpg)
+
 V.1.0 ~ Date: 11/01/2018.
 - Grabs user input, and display the numbers on the right columns!
 ![alt text](assets/images/github/v1.jpg)
